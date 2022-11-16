@@ -1,4 +1,4 @@
-# Simple Shell Project- Tomisin and Wisdom
+# Simple Shell Project- Tomisin Akinbola and Wisdom Eze
 
 ## What is the shell?
 A Unix shell is a command-line interpreter or shell that reads and executes commands. It is created using the C programming Language
